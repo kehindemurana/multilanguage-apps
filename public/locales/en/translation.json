@@ -1,0 +1,8 @@
+ {
+      "hi": "Hello, Welcome!",
+      "description": {
+        "line1": "You are watching {{channel}} YouTube channel",
+        "line2": "This is an internalisation Tutorial"
+      }
+    }
+  
